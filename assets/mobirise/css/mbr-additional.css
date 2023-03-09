@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Krona One', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Krona One', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Krona One', sans-serif;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -1285,6 +1285,53 @@ a {
   .cid-twNrdVa6X8 .embla__container .embla__slide:last-child {
     margin-right: 2rem !important;
   }
+}
+.cid-ty1yrxT3wj {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffffff;
+}
+.cid-ty1yrxT3wj .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ty1yrxT3wj .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ty1vXUcmKd {
+  padding-top: 6rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-ty1vXUcmKd .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ty1vXUcmKd .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ty1vXUcmKd .card-wrapper {
+  display: flex;
+}
+@media (max-width: 991px) {
+  .cid-ty1vXUcmKd .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-ty1vXUcmKd .mbr-iconfont {
+  font-size: 2rem;
+  color: #6592e6;
+  padding-right: 1.5rem;
 }
 .cid-twEBlOxZzF {
   padding-top: 5rem;
